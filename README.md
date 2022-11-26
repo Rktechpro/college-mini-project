@@ -1,8 +1,7 @@
 # college-mini-project
-2.1-Python Introduction:-
+<h1>2.1-Python Introduction:-</h1>
 Python is a widely used general-purpose, high level programming language. It was created by Guido van Rossum in 1991 and further developed by the Python Software Foundation. It was designed with an emphasis on code readability, and its syntax allows programmers to express their concepts in fewer lines of code.
->>> print("Hello, World!")
-Hello, World!
+print("Hello, World!")
 
 2.2-Python modules:-Consider a module to be the same as a code library. A file containing a set of functions you want to include in your application.
 1-Tkinter:-  Python offers multiple options for developing GUI (Graphical User Interface). Out of all the GUI methods, Tkinter is the most commonly used method. It is a standard Python interface to the Tk GUI toolkit shipped with Python.
