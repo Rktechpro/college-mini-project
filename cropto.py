@@ -9,7 +9,7 @@ import base64
 secren=Tk()
 # Frontend 
 secren.geometry("500x500")
-secren.title("Encryption and Decryption in maseges")
+secren.title("Text Encryption and Decryption ")
 global data
 secren.configure(bg="lightblue")
 # secren1-encrypted 
@@ -113,7 +113,7 @@ def paste():
      global data
      text.insert(tkinter.END,data)
 # lable
-hedinglable=Label(secren, text=" Welcome to Encryption and \nDecryption", font=('Courier', '24', 'bold'),bg="lightblue")
+hedinglable=Label(secren, text=" Welcome to Text Encryption and \nDecryption", font=('Courier', '24', 'bold'),bg="lightblue")
 hedinglable.place(x=20,y=40)
 # imageTk
 img =ImageTk.PhotoImage(Image.open("image/goha.png"))
